@@ -1,0 +1,23 @@
+/* Giao diện: Chế độ tối — chỉnh các biến này để đổi màu/phông toàn bộ bài giảng */
+:root{
+  --bg:#0b1020;
+  --panel:#141a2e;
+  --ink:#e8ecf6;
+  --mute:#9aa6c0;
+  --line:#252d47;
+  --acc:#8b93ff;
+  --acc-ink:#0b1020;
+  --acc2:#1d2547;
+  --hero-a:#312e81;
+  --hero-b:#1e1b4b;
+  --hero-ink:#ffffff;
+  --ok:#6ee7a0;
+  --ok-bg:#12301f;
+  --bad:#ff9a9a;
+  --bad-bg:#3a1a1f;
+  --radius:16px;
+  --shadow:0 10px 30px rgba(0,0,0,.45);
+  --font:"Inter","Segoe UI",system-ui,-apple-system,"Roboto","Helvetica Neue",Arial,sans-serif;
+  --font-head:"Inter","Segoe UI",system-ui,-apple-system,"Roboto","Helvetica Neue",Arial,sans-serif;
+  color-scheme:dark;
+}
